@@ -1,0 +1,15 @@
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\bin\Debug\net6.0\Datos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\bin\Debug\net6.0\ref\Datos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\bin\Debug\net6.0\Modelos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\bin\Debug\net6.0\Modelos.pdb
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Datos\obj\Debug\net6.0\Datos.pdb

@@ -1,0 +1,12 @@
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\bin\Debug\net6.0\ref\Modelos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+C:\Programación III\Blazor\Blazor_ProgramacionIII\ProyectoBlazor\Modelos\obj\Debug\net6.0\Modelos.pdb
